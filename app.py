@@ -123,8 +123,8 @@ def upload_key():
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
             file.save(os.path.join(app.config['UPLOAD_KEY'], file.filename))
-            return start_decryption()
-        return 'Invalid File Format !'
+            return start_decryption()      
+            return 'Invalid File Format !'
 
 
 if __name__ == '__main__':

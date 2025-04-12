@@ -1,9 +1,5 @@
 # Secure Cloud Storage & Encryption Hybid Cryptography System
 
-![Project Logo](https://github.com/user-attachments/assets/c80a9b89-27dc-46d8-88c7-af8e0769781d)
-
----
-
 ## 📜 Overview
 The Secure File Storage System is a hybrid cryptographic application designed to enhance the confidentiality, integrity, and availability of sensitive data. By leveraging advanced encryption algorithms and robust file handling mechanisms, this project ensures a secure and efficient file storage solution.
 
@@ -45,12 +41,7 @@ The Secure File Storage System is a hybrid cryptographic application designed to
 - Required libraries: Install using `pip install -r requirements.txt`
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/PankajMahanto/Secure-Cloud-File-Storage-and-Encryption-Hybid-Cryptography-System.git>
-   cd secure-file-storage-system
-   ```
-2. Install dependencies:
+ Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
@@ -93,34 +84,8 @@ secure-file-storage-system/
 - **Decryption Speed**: 500 MB file decrypted in ~2.8 seconds.
 - **Key Generation**: All keys generated within milliseconds.
 
----
-
-## 📚 Resources
-- [📄 Project Report](<https://www.overleaf.com/read/jdkptrqyycbj#798ad2>)
-- [📺 YouTube Demo](https://www.youtube.com/@pan78mtricks)
-- [📂 GitHub Repository](<https://github.com/PankajMahanto/Secure-Cloud-File-Storage-and-Encryption-Hybid-Cryptography-System.git>)
-
----
-
-## 🤝 Contributors
-- **Pankaj Mahanta** - [GitHub Profile](https://github.com/PankajMahanto/)
-- **Mostak Ahmmed** - [GitHub Profile](https://github.com/Mostak-Ahmmed)
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/PankajMahanto/) file for details.
-
----
 
 ## 💡 Future Enhancements
 - Implement post-quantum cryptography.
 - Add a user-friendly GUI for non-technical users.
 - Integrate with cloud storage platforms.
-
----
-
-## 📬 Contact
-For inquiries, reach out to [ Email](mailto:aryanpankaj78@gmail.com).
-
----

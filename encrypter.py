@@ -118,3 +118,4 @@ def encrypter():
     public_key.write(key_1)  # key_1 stored in Main_Key.pem
     public_key.close()
     tools.empty_folder('files')
+
